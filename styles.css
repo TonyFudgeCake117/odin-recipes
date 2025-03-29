@@ -1,0 +1,36 @@
+#receipes{
+    font-size: 30px; color: white; background-color: red;
+    font-family: 'Times New Roman', Times, serif; text-align: center;
+}
+img{
+    height: auto; width: 300; text-align: center;
+}
+.one{
+    text-align: center;
+}
+
+#text{
+    font-weight: bold; font-size: large; text-align: center;
+    background-color: gray;
+}
+.cheeseburger{
+    font-size: large; color: blue; background-color: gray;
+}
+
+h2{
+    background-color: gray; text-align: center;
+}
+
+.burger-list{
+    color: red; font-size: 20px; 
+
+}
+
+.burger-steps{
+    text-align: center; font-weight: bold; 
+    background-color: gray;
+}
+
+.steps-cook{
+    color: red;
+}
